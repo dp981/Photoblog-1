@@ -8,15 +8,15 @@ h1{
     color:#a9d6e5;
     margin-left:calc(12%/5);
     font-family: 'Raleway', sans-serif;
-    font-size: 1.1em;
+    font-size: 1.2em;
     width:30%;
     border-bottom: 4px solid #4a4e69;
     padding:1.2em 0;
 }
 img:hover{
     cursor:pointer;
-    transform:scale(1.1);
-    transition: transform 1s ease-in;
+    transform:scale(1.2);
+    transition: transform 3s ease-out;
 
 }
 
